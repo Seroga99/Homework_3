@@ -1,0 +1,85 @@
+* { 
+	font-size: 14px;
+	padding: 0px;
+    box-sizing: border-box;
+    color: rgb(98, 98, 98);
+
+}
+body {
+	font-family:'PlayfairDisplay';
+}
+.wrapper {
+	margin: 0 auto;
+	width: 1200px;
+}
+.topics {
+	width: 1200px;
+	text-align: center;
+}
+.topics li {
+	display: inline-block;
+	width: 15%;
+	padding-left: 10px;
+	text-align: center;
+}
+.blocks {
+    	width: 1200px;
+}
+.left-part {
+	display: inline-block;
+	vertical-align: top;
+	padding: 60px 30px 0px 120px;
+	width: 50%;
+	margin:auto;
+}
+img {
+    width: 100%;
+    height: 280px;
+}
+.right-part {
+	display: inline-block;
+	vertical-align: top;
+	padding: 60px 120px 0px 30px;
+	width: 50%;
+	margin-left: -4px;
+}
+
+.btn {
+	display: inline-block;
+	padding: 18px 32px;
+	border: 1px solid black;
+	text-decoration: none;
+	transition: all .7s ease; 
+    font-size: 20px;
+    font-family: "Myriad Pro";
+  
+  
+}
+.btn:hover {
+	background-color: dimgray;
+	color: white;
+}
+.ta-center {
+	text-align: center;
+	margin-top: 50px;
+}
+p {
+	 line-height: 1.714;
+}
+.title {
+	font-size: 34px;
+}
+.names-pctr {
+  font-size: 14px;
+  color: rgb(180, 173, 158);
+  left: 628.937px;
+  line-height: 1.2;
+  top: 1111.25px;
+  width: 85px;
+  height: 11px;
+}
+
+
+
+
+
